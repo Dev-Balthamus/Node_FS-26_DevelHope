@@ -1,0 +1,1 @@
+console.log(`The requested sum between 5 and 6 is: ${5+6}`);
